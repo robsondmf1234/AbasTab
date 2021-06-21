@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Youtube</string>
+
+    <string name="hello_blank_fragment">Home</string>
+    <string name="inscricoes_blank_fragment">Inscricoes</string>
+    <string name="alta_blank_fragment">Em Alta</string>
+</resources>
